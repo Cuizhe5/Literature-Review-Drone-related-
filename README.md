@@ -7,6 +7,7 @@
 (1)链路计数观测:在某一时间段内，有多少辆车通过这条链路<br>
 (2)静态OD矩阵:在一个给定时间段内，OD不随时间变化<br>
 (3)动态OD矩阵:OD随时间变化 <br>
+4.宏观基本图(MFD):在一个给定城市区域内，平均交通密度与区域总流量（或完成出行率）之间的稳定函数关系<br>
 
 
 ## Y. Englezou, S. Timotheou and C.G. Panayiotou“Enhancing Traffic State Estimation Using UAV-Based Measurements”(2024,ICUAS)
