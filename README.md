@@ -1,6 +1,7 @@
 # Literature Review
-相关概念:1:流量:单位时间内通过某一断面的车辆数,只关心：有没有车通过;通过了几辆。<br>
-        2:时间占用:在一个时间窗口内，传感器被车辆占据的时间比例。<br>
+##相关概念:<br>
+1:流量:单位时间内通过某一断面的车辆数,只关心：有没有车通过;通过了几辆。<br>
+2:时间占用:在一个时间窗口内，传感器被车辆占据的时间比例。<br>
 
 ## Y. Englezou, S. Timotheou and C.G. Panayiotou“Enhancing Traffic State Estimation Using UAV-Based Measurements”(2024,ICUAS)
   相较于传统传感器和CAF，通过将高斯过程（GP）模型与贝叶斯框架整合进处理，基于无人机的传感表现出更高的估计精度。覆盖了研究网络的高时空分辨率，且随着网络覆盖比例下降，估计误差不会显著变化<br>
