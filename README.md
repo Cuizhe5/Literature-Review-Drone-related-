@@ -25,7 +25,7 @@ OD矩阵重要性->很少观测到->估计<br>
 OD矩阵现有的研究用什么->静态矩阵和动态矩阵->研究具体做的是静态矩阵<br>
 无人机可以用的地方->无人机作用<br>
 
-## Y. Englezou, S. Timotheou and C.G. Panayiotou“A Probabilistic Optimal UAV Trajectory Planning Approach to Minimise the Uncertainty of Traffic Density Estimations”(2014,ITSC)
+## Y. Englezou, S. Timotheou and C.G. Panayiotou“A Probabilistic Optimal UAV Trajectory Planning Approach to Minimise the Uncertainty of Traffic Density Estimations”(2024,ITSC)
 通过将高斯过程（GP）模型纳入贝叶斯框架，我们即使在数据稀疏的地区也能实现准确的交通密度估计。提出的无人机轨迹规划方法通过多车道高速公路的真实模拟得到了验证<br>
 
 
