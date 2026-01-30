@@ -33,3 +33,7 @@ OD矩阵现有的研究用什么->静态矩阵和动态矩阵->研究具体做�
 基于无人机的实时交通估算系统，能够实时测量交通流量，并利用对交通动态的先验知识，估算交通网络中已观察和未观察区域的交通密度(其实这篇文章做的更偏向于在噪声不同且稀疏的情况下仍有较好的密度估计)<br>
 很奇怪，这篇论文竟然保证自己分的每个区域都能有一架无人机监控
 
+## Pablo Garcia-Aunon, Juan Jesu ́ s Rolda ́n, Antonio Barrientos“Monitoring traffic in future cities with aerial swarms: Developing and optimizing a behavior-based surveillance algorithm”(2018,Cognitive Systems Research)
+这些传感器通常位于固定位置，因此只能在特定区域进行测量。这会导致两个问题：一是数据偏差；二是传感器一旦停止工作，就会出现盲区。另一种方法是将传感器放置在移动平台上，例如公共交通工具上，尽管它们的位置仍然无法控制。<br>
+基于行为的算法来搜索区域内的静态目标。本文的研究任务则需要在街道上空飞行并频繁地重访每个点。此外，本文还探讨了算法在较简单的环境中训练后，在更真实的环境中测试时所存在的现实差距。
+
